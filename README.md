@@ -43,7 +43,7 @@ You can download the **model** from [here](https://drive.google.com/drive/folder
 
 ### Step-7: Run the application:
 ```bash
-    python run app.py
+    python app.py
 ```
 
 ### Step-8: Prediction application:
